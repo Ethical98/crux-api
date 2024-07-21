@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Steps To Run on Local Machine
+
+1. Git clone the repo on your local machine.
+
+2. npm i
+
+3. npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -87,5 +95,5 @@ Axios - making API Calls
 SPA developed in ReactJs with Axios for making API calls & Tailwind for CSS.
 
 Main File: App.js
-Methods File: src/uitls/helperMethods.js
+Methods File: src/utils/helperMethods.js
 Constants File: src/constants.js
