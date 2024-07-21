@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Libraries
+
+Tailwind - for css
+Axios - making API Calls
+
+### Features
+
+1. Structured report
+2. Multiple URLS Summary Report (MAX 3)
+3. Filter By Data
+4. Sort by threshold value
+5. Ability to scale up. (All methods are dynamic in nature)
+
+### Design
+
+SPA developed in ReactJs with Axios for making API calls & Tailwind for CSS.
+
+Main File: App.js
+Methods File: src/uitls/helperMethods.js
+Constants File: src/constants.js
